@@ -40,7 +40,7 @@ structural patterns, and behavioral patterns.
 - A class should only have one reason to change. 
 - *Separation of concerns* - different classes handling different, independent, tasks/problems.
 
-**Open Close Principal**: 
+**Open Closed Principal**: 
 - Rather than modify class (add new properties/methods) extend and create new classes if possible.
 
 **Liskov Substitution Principal**: 
