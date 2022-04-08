@@ -34,10 +34,19 @@ structural patterns, and behavioral patterns.
 ---
 
 # SOLID
-    **Single responsibility**: Each class should have a single responsibility.
-    **Open Close Principal**: Rather than modify class (add new properties/methods) extend and create new classes if possible.
-    **Liskov Substitution Principal**: if you have some method that takes a base class, it should equally be able to take its' children (exetended classes)
-    **Interface Segrigation Principal**: Not practical due to Javascript duck typing. Do not include interfaces/methods/properties that aren't needed by the child class.
-    **Dependency Inversion Principal**: High-level modules should not rely on Low-Level modules (like data that should be private), but rather abstractions. You would typically use abstract classes or interfaces, but Javascript does not contain either.
 
-    **Principal of least surprise**: dev/user should not get unexpected or undocumented results. (things should make sense and be predictable.)
+    **Single responsibility**: Each class should have a single responsibility.
+    **Open Close Principal**: Rather than modify class (add new 
+        properties/methods) extend and create new classes if possible.
+    **Liskov Substitution Principal**: if you have some method that takes a 
+    base class, it should equally be able to take its' children (exetended classes)
+    **Interface Segrigation Principal**: Not practical due to Javascript 
+    duck typing. Do not include interfaces/methods/properties that aren't 
+    needed by the child class.
+    **Dependency Inversion Principal**: High-level modules should not rely 
+    on Low-Level modules (like data that should be private), but rather 
+    abstractions. You would typically use abstract classes or interfaces, 
+    but Javascript does not contain either.
+
+    **Principal of least surprise**: dev/user should not get unexpected or 
+    undocumented results. (things should make sense and be predictable.)
