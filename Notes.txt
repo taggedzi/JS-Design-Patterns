@@ -31,3 +31,7 @@ behavioral
     template Method
     visitor
 
+SOLID
+    Single responsibility: Each class should have a single responsibility.
+    Open Close Principal: Rather than modify class (add new properties/methods) extend and create new classes if possible.
+    Liskov Substitution Principal: 
