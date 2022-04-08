@@ -31,6 +31,10 @@ structural patterns, and behavioral patterns.
 ---
 
 # Creational Patterns
+1. Deal with creation (constructions) of objects. 
+1. Explicit (constructor) vs implicit (DI, reflection, etc)
+1. Wholesale (single statement) vs Piecewise (step-by-step)
+
 - builder
 - Factories
   - Abstract Factory
@@ -39,6 +43,10 @@ structural patterns, and behavioral patterns.
 - Singleton
 
 # Structural Patterns
+1. Concerned with structure (eg class members)
+1. Many patterns are wrappers that mimic the underlying class' interface.
+1. Stress the importance of good API design
+
 - adapter
 - bridge
 - composite
@@ -48,6 +56,8 @@ structural patterns, and behavioral patterns.
 - proxy
 
 # Behavioral Patterns
+1. They are all differnt; no central theme
+
 - chain of responsibility
 - command
 - interpreter
