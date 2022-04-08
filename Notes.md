@@ -2,34 +2,34 @@ Class is broken into 4 parts, the basics (SOLID), creational patterns,
 structural patterns, and behavioral patterns.
 
 # creational
-    builder
-    Factories
-        Abstract Factory
-        Factory Method
-    Prototype
-    Singleton
+- builder
+- Factories
+  - Abstract Factory
+  - Factory Method
+- Prototype
+- Singleton
 
 # structural
-    adapter
-    bridge
-    composite
-    decorator
-    facade
-    flyweight
-    proxy
+- adapter
+- bridge
+- composite
+- decorator
+- facade
+- flyweight
+- proxy
 
 # behavioral 
-    chain of responsibility
-    command
-    interpreter
-    iterator
-    mediator
-    momento
-    observer
-    state
-    strategy
-    template Method
-    visitor
+- chain of responsibility
+- command
+- interpreter
+- iterator
+- mediator
+- momento
+- observer
+- state
+- strategy
+- template Method
+- visitor
 
 ---
 
